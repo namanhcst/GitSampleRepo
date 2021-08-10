@@ -1,1 +1,2 @@
-line added by master
+line added by master and b1 both
+
